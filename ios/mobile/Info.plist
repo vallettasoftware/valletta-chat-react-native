@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CFBundleDevelopmentRegion</key>
+		<string>en</string>
+		<key>CFBundleDisplayName</key>
+		<string>$(PRODUCT_NAME)</string>
+		<key>CFBundleExecutable</key>
+		<string>$(EXECUTABLE_NAME)</string>
+		<key>CFBundleIdentifier</key>
+		<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+		<key>CFBundleInfoDictionaryVersion</key>
+		<string>6.0</string>
+		<key>CFBundleName</key>
+		<string>$(PRODUCT_NAME)</string>
+		<key>CFBundlePackageType</key>
+		<string>APPL</string>
+		<key>CFBundleShortVersionString</key>
+		<string>$(MARKETING_VERSION)</string>
+		<key>CFBundleSignature</key>
+		<string>????</string>
+		<key>CFBundleVersion</key>
+		<string>$(CURRENT_PROJECT_VERSION)</string>
+		<key>LSRequiresIPhoneOS</key>
+		<true/>
+		<key>NSAppTransportSecurity</key>
+		<dict>
+			<key>NSAllowsArbitraryLoads</key>
+			<true/>
+			<key>NSExceptionDomains</key>
+			<dict>
+				<key>localhost</key>
+				<dict>
+					<key>NSExceptionAllowsInsecureHTTPLoads</key>
+					<true/>
+				</dict>
+			</dict>
+		</dict>
+		<key>NSAppleMusicUsageDescription</key>
+		<string>Please enable this functionality</string>
+		<key>NSBluetoothAlwaysUsageDescription</key>
+		<string>Please enable this functionality</string>
+		<key>NSBluetoothPeripheralUsageDescription</key>
+		<string>Please turn on Bluetooth</string>
+		<key>NSCalendarsUsageDescription</key>
+		<string>Allow mobile to access your calendar</string>
+		<key>NSCameraUsageDescription</key>
+		<string>Your message to user when the camera is accessed for the first time</string>
+		<key>NSContactsUsageDescription</key>
+		<string>Allow mobile experiences to access your contacts</string>
+		<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+		<string>Allow mobile to use your location</string>
+		<key>NSLocationAlwaysUsageDescription</key>
+		<string>Allow mobile to use your location</string>
+		<key>NSLocationWhenInUseUsageDescription</key>
+		<string>Allow mobile to use your location</string>
+		<key>NSMicrophoneUsageDescription</key>
+		<string>Your message to user when the microphone is accessed for the first time</string>
+		<key>NSMotionUsageDescription</key>
+		<string>Allow mobile to access your device's accelerometer</string>
+		<key>NSPhotoLibraryAddUsageDescription</key>
+		<string>Give mobile periences permission to save photos</string>
+		<key>NSPhotoLibraryUsageDescription</key>
+		<string>Give mobile periences permission to access your photos</string>
+		<key>NSRemindersUsageDescription</key>
+		<string>Allow mobile to access your reminders</string>
+		<key>NSSiriUsageDescription</key>
+		<string>Please enable this functionality</string>
+		<key>NSSpeechRecognitionUsageDescription</key>
+		<string>Please enable this functionality</string>
+		<key>UIAppFonts</key>
+		<array>
+			<string>AntDesign.ttf</string>
+			<string>Entypo.ttf</string>
+			<string>EvilIcons.ttf</string>
+			<string>Feather.ttf</string>
+			<string>FontAwesome.ttf</string>
+			<string>FontAwesome5_Brands.ttf</string>
+			<string>FontAwesome5_Regular.ttf</string>
+			<string>FontAwesome5_Solid.ttf</string>
+			<string>Fontisto.ttf</string>
+			<string>Foundation.ttf</string>
+			<string>Ionicons.ttf</string>
+			<string>MaterialCommunityIcons.ttf</string>
+			<string>MaterialIcons.ttf</string>
+			<string>Octicons.ttf</string>
+			<string>Roboto_medium.ttf</string>
+			<string>Roboto.ttf</string>
+			<string>rubicon-icon-font.ttf</string>
+			<string>SimpleLineIcons.ttf</string>
+			<string>Zocial.ttf</string>
+		</array>
+		<key>UILaunchStoryboardName</key>
+		<string>SplashScreen</string>
+		<key>UIRequiredDeviceCapabilities</key>
+		<array>
+			<string>armv7</string>
+		</array>
+		<key>UIStatusBarStyle</key>
+		<string>UIStatusBarStyleDefault</string>
+		<key>UISupportedInterfaceOrientations</key>
+		<array>
+			<string>UIInterfaceOrientationPortrait</string>
+		</array>
+		<key>UIViewControllerBasedStatusBarAppearance</key>
+		<false/>
+		<key>CFBundleURLTypes</key>
+		<array>
+			<dict>
+				<key>CFBundleURLSchemes</key>
+				<array>
+					<string>sharpdev.twilio</string>
+					<string>https</string>
+				</array>
+				<key>CFBundleURLName</key>
+				<array>
+                    <string>ngtwilliochatdev.stage.sharp-dev.net</string>
+                    <string>reacttwiliochatdev.stage.sharp-dev.net/</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</plist>

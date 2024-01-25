@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>986803572069-qjkc7iepss280ei6mh2tjf3so6tgtoga.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.986803572069-qjkc7iepss280ei6mh2tjf3so6tgtoga</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrf6XIXO8JQdlf-jyxjYhVSFls9vHK9Bc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>986803572069</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.sharpdev.twilio</string>
+	<key>PROJECT_ID</key>
+	<string>twilio-chat-app-40bbd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twilio-chat-app-40bbd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:986803572069:ios:8acfe6dd221041db3c258c</string>
+	<key>DATABASE_URL</key>
+	<string>https://twilio-chat-app-40bbd.firebaseio.com</string>
+</dict>
+</plist>

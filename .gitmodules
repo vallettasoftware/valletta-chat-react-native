@@ -1,0 +1,3 @@
+[submodule "src/localization"]
+	path = src/localization
+	url = https://bitbucket.org/sharp-dev/i18n-twilio-chat.git

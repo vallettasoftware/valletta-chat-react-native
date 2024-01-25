@@ -1,0 +1,19 @@
+{
+  "name": "mobile",
+  "displayName": "Sharp Talks",
+  "expo": {
+    "name": "mobile",
+    "slug": "mobile",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "net.sharpdev.sharptalks.rn",
+      "buildNumber": "17"
+    },
+    "android": {
+      "package": "net.sharpdev.twilio",
+      "versionCode": 16
+    }
+  }
+}

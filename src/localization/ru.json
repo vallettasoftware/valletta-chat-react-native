@@ -1,0 +1,247 @@
+{
+  "AUTH": {
+    "VALLETTA_TALKS": "Valletta-Chat",
+    "RESEND_CONFIRMATION": "Отправить заново",
+    "SIGN_IN": {
+      "SIGN_IN": "Авторизация",
+      "FORGOT_PASSWORD": "Забыли пароль?",
+      "CREATE_ACCOUNT": "Создать аккаунт"
+    },
+    "SIGN_UP": {
+      "SIGN_UP": "Регистрация",
+      "CONFIRMATION": "Подтверждение пароля",
+      "CREATE_ACCOUNT": "Создать аккаунт",
+      "FORGOT_PASSWORD": "Забыли пароль?",
+      "ALREADY_HAVE_ACCOUNT": "У вас уже есть аккаунт? Авторизация"
+    },
+    "SIGN_UP_CONFIRM": {
+      "SIGN_UP": "Регистрация",
+      "ALMOST_DONE": "Почти готово!",
+      "CONFIRMATION_SENT": "Письмо с подтверждением отправлено.",
+      "CHECK_EMAIL_BOX": "Проверьте вашу почту.",
+      "NOT_RECEIVE_MESSAGE": "Если вы не получили письмо, проверьте папку со спамом или повторите отправку подтверждения по почте"
+    },
+    "CONFIRM_EMAIL": {
+      "SIGN_IN_5_SEC": "Вы автоматически войдете в систему в течение следующих 5 секунд.",
+      "EMAIL_CONFIRMATION": "Подтверждение почты",
+      "CONGRATULATIONS": "Поздравляем!",
+      "SUCCESSFUL_CONFIRMATION": "Вы успешно подтвердили свою почту.",
+      "VERIFICATION_ERROR": "Во время проверки вашей почты произошла ошибка",
+      "RESEND_EMAIL": "Отправить письмо с подтверждением заново",
+      "CREATE_ACCOUNT": "Создать аккаунт",
+      "FORGOT_PASSWORD": "Забыли пароль?"
+    },
+    "CONFIRM_PASSWORD": {
+      "PASSWORD_CHANGE": "Изменение пароля",
+      "CONGRATULATIONS": "Поздравляем!",
+      "SUCCESSFUL_CHANGE": "Вы успешно изменили свой пароль."
+    },
+    "FORGOT_PASSWORD": {
+      "PASSWORD_RECOVERY": "Восстановление пароля",
+      "SPECIFY_YOUR_EMAIL": "Укажите свою почту, пожалуйста.",
+      "WE_WILL_SEND_EMAIL": "Мы отправим вам письмо с инструкциями по восстановлению пароля",
+      "RESTORE_PASSWORD": "Восстановить пароль",
+      "CREATE_ACCOUNT": "Создать аккаунт",
+      "I_REMEMBER_PASSWORD": "Я помню пароль",
+      "REQUEST_SUCCESSFULLY_PERFORMED": "Ваш запрос был успешно выполнен. Пожалуйста, проверьте свою почту."
+    },
+    "RESET_PASSWORD": {
+      "RESET_PASSWORD": "Сброс пароля",
+      "PASSWORD_CHANGE": "Изменение пароля",
+      "NEW_PASSWORD": "Новый пароль",
+      "REPEAT_PASSWORD": "Повторите пароль",
+      "CREATE_NEW_PASSWORD": "Создать новый пароль"
+    },
+    "RESET_PASSWORD_CONFIRM": {
+      "PASSWORD_RECOVERY": "Восстановление пароля",
+      "ALMOST_DONE": "Почти готово!",
+      "WE_SENT_EMAIL": "Мы отправили вам письмо с инструкциями.",
+      "CHECK_YOUR_MAILBOX": "Проверьте свою почту, пожалуйста.",
+      "NOT_RECEIVE_MESSAGE": "Если вы не получили никакого сообщения, проверьте папку со спамом или повторно отправьте подтверждение по почте"
+    },
+    "CHANGE_PASSWORD": {
+      "OLD_PASSWORD": "Старый пароль",
+      "REPEAT_NEW_PASSWORD": "Повторите новый пароль"
+    }
+  },
+  "MAIN": {
+    "HEADER": {
+      "HOME_PAGE": "Главная страница",
+      "VALLETTA_TALKS": "Valletta-Chat",
+      "OPEN_MEETING_DETAILS": "Открыть детали конференции",
+      "MEETING_ID": "ID конференции",
+      "MEETING_URL": "URL конференции",
+      "TOTAL_PARTICIPANTS": "Всего участников",
+      "OWNER": "Владелец",
+      "NO_EMAIL": "Нет почты",
+      "CONFERENCE_NAME": "Название конференции",
+      "SPEAKER_VIEW": "Сетка",
+      "GALLERY_VIEW": "Галереи",
+      "MY_PROFILE": "Мой профиль",
+      "CHANGE_PASSWORD": "Изменить пароль"
+    },
+    "MEETINGS": {
+      "CREATE_NEW_MEETING": "Создать новую конференцию",
+      "INVITE_PEOPLE": "Пригласить людей",
+      "INVITE_PARTICIPANTS": {
+        "INVITE_PARTICIPANTS_TO": "Пригласить участников в",
+        "DO_YOU_WANT_INVITE_PEOPLE": "Вы хотите пригласить людей в чат?",
+        "LIST_PARTICIPANTS_EMAILS": "Список почт участников, мы можем отправить им приглашения",
+        "ADD_TO_MAILING_LIST": "Добавить с Список",
+        "SUCCESSFULLY_SENT": "Успешно отправлено",
+        "WE_HAVE_SENT_INVITATIONS": "Мы можем отправить приглашения всем участникам, чьи почты вы указали",
+        "MAILING_LIST": "Список почт",
+        "SEND_INVITES": "Пригласить"
+      },
+      "CREATE_MEETING": {
+        "NO_MONEY": "К сожалению, у вас на счету нет денег. Вы не можете создать конференцию.",
+        "CREATE_NEW_MEETING": "Создать новую конференцию",
+        "MEETING_NAME": "Название конференции"
+      },
+      "JOIN_MEETING": {
+        "NO_MONEY": "К сожалению, у вас на счету нет денег. Вы не можете подключиться к конференции.",
+        "ROOM_NOT_FOUND": "Конференция не найдена",
+        "JOIN_MEETING": "Присоединиться к конференции",
+        "YOU_CAN_QUICKLY_JOIN": "Вы можете быстро присоединиться к конференции, если у вас есть URL или ID",
+        "ID_OR_URL": "ID или URL"
+      },
+      "LIST": {
+        "FIELDS": {
+          "ID": "ID",
+          "NAME": "Название",
+          "LAST_ACTIVITY": "Последняя активность",
+          "PARTICIPANTS_ONLINE_TOTAL": "Участники (Онлайн / Всего)"
+        },
+        "RENAME_ROOM": "Переименовать конференцию",
+        "DELETE_MEETING": "Удалить конференцию?",
+        "CONFIRM_DELETION": "Пожалуйста, подтвердите удаление",
+        "ARE_YOU_SURE": "Вы уверены, что хотите удалить конференцию?",
+        "DO_YOU_WANT_RENAME_ROOM": "Вы хотите переименовать конференцию?",
+        "RENAME_CONFERENCE": "Переименовать конференцию",
+        "YOUR_MEETINGS": "Ваши конференции",
+        "TOTAL_PARTICIPANTS": "Всего участников",
+        "SHARE": "Поделиться",
+        "OPTIONS": "Опции",
+        "RENAME_MEETING": "Переименовать конференцию",
+        "NOT_FOUND": "Конференции не найдены",
+        "NEW": "новое"
+      }
+    },
+    "ACTIVE_MEETING": {
+      "RIGHT_CONTROLS": {
+        "PARTICIPANTS": "Участники",
+        "CLOSE_PANEL": "Закрыть панель",
+        "ALT_TEXT": "Замещающий текст!",
+        "GROUP_CHAT": "Групповой чат",
+        "CHAT_IS_EMPTY": "Чат пуст.",
+        "TYPE_MESSAGE_HERE": "Введите сообщение здесь",
+        "MESSAGES": "Сообщения"
+      },
+      "BOTTOM_CONTROLS": {
+        "MUTE": "Отключить звук",
+        "UNMUTE": "Включить звук",
+        "STOP_VIDEO": "Остановить видео",
+        "START_VIDEO": "Запустить видео",
+        "PARTICIPANTS": "Участники",
+        "CHAT": "Чат",
+        "SETTINGS": "Настройки",
+        "LEAVE": "Выйти"
+      }
+    },
+    "MOBILE_SIDEBAR": {
+      "ABOUT_MEETING": "Подробнее о конференции",
+      "INVITE_PEOPLE": "Пригласить людей",
+      "MY_PROFILE": "Мой профиль",
+      "SETTINGS": "Настройки",
+      "CONTACT_US": "Свяжитесь с нами",
+      "SHARE_APP": "Поделиться приложением",
+      "RATE_APP": "Оценить приложение",
+      "ABOUT_VALLETTA": "Подробнее о Valletta",
+      "LOGOUT": "Выйти"
+    },
+    "ADMIN": {
+      "HOME_PAGE": "Домашняя страница",
+      "ADMIN_FORM": {
+        "ADD_ADMIN": "Добавить администратора",
+        "EDIT_ADMIN": "Редактировать администратора"
+      },
+      "ADMIN_SELECTOR": {
+        "DELETE_USER": "Удалить пользователя",
+        "ARE_YOU_SURE": "Вы уверены, что хотите удалить пользователя?",
+        "ADMIN_USERS": "Администраторы",
+        "ADD_ADMIN": "Добавить администратора"
+      }
+    }
+  },
+  "COMMON": {
+    "TAB_TITLES": {
+      "SIGN_IN": "Авторизация",
+      "SIGN_UP": "Регистрация",
+      "MEETINGS": "Конференции",
+      "MEETING": "Конференция"
+    },
+    "FIELDS": {
+      "EMAIL": "Почта",
+      "PASSWORD": "Пароль",
+      "OLD_PASSWORD": "Старый пароль",
+      "NAME": "Имя",
+      "PHONE_NUMBER": "Номер телефона",
+      "ACTIONS": "Действия",
+      "EMPTY": "Пусто"
+    },
+    "ACTIONS": {
+      "LOGIN": "Авторизоваться",
+      "LOGOUT": "Выйти",
+      "CANCEL": "Отменить",
+      "CLOSE": "Закрыть",
+      "ADD": "Добавить",
+      "SAVE": "Сохранить",
+      "CREATE": "Создать",
+      "JOIN": "Присоединиться",
+      "EDIT": "Редактировать",
+      "UPDATE": "Обновить",
+      "RENAME": "Переименовать",
+      "DELETE": "Удалить",
+      "INVITE": "Пригласить",
+      "RESEND": "Отправить заново",
+      "SHARE": "Показать Экран",
+      "SHARE_STOP": "Остановить показ",
+      "CANCEL_CHANGES": "Отменить изменения",
+      "OK_I_UNDERSTOOD": "Хорошо, я понял!"
+    },
+    "NOTIFICATIONS": {
+      "COPY_LINK": "Ссылка была скопирована в буфер обмена",
+      "COPY_ID": "Идентификатор был скопирован в буфер обмена"
+    },
+    "ERRORS": {
+      "ERRORS": "Ошибки!",
+      "OOOPS": "Ууупс",
+      "TOO_LONG": "Слишком длинно!",
+      "TOO_SHORT": "Слишком коротко!",
+      "INVALID_VALUE": "Неправильное значение",
+      "REQUIRED_FIELD": "Обязательное поле",
+      "SOMETHING_WRONG": "Ууупс, что-то пошло не так!",
+      "SOMETHING_WENT_WRONG": "Что-то пошло не так!",
+      "NAME_EMPTY": "Имя пустое",
+      "NAME_TOO_LONG": "Слишком длинное имя",
+      "NAME_LENGTH_LIMIT": "Имя конференции не должно превышать 256 символов",
+      "EMAIL_PATTERN": "Вы указали неправильную почту",
+      "EMAIL_IS_REQUIRED": "Требуется ввести почту.",
+      "EMAIL_IS_INCORRECT": "Почта указана некорректно.",
+      "EMAIL_NOT_CONFIRMED": "Почта не была подтверждена.",
+      "EMAIL_NOT_EXIST": "Пользователя с данной почтой не существует",
+      "PASSWORD_IS_REQUIRED": "Требуется ввести пароль",
+      "COMPARE_PASSWORDS": "Подтверждение пароля не совпадает с паролем",
+      "EMPTY_EMAIL_OR_PASSWORD": "Почта или пароль не заполнены.",
+      "INCORRECT_EMAIL_OR_PASSWORD": "Почта или пароль введены неверно.",
+      "USER_ALREADY_EXIST": "Пользователь с такой почтой уже существует",
+      "CANNOT_DELETE_YOURSELF": "Вы не можете удалить себя!",
+      "ALREADY_IN_THE_LIST": "Почта уже была добавлена в список",
+      "LINK_BROKEN_RESEND_EMAIL": "Ссылка верификации сломана. Пожалуйста, отправьте письмо с верификацией еще раз",
+      "NO_MONEY": "Нет денег",
+      "CHECK_YOUR_CAMERA": "Пожалуйста, проверьте вашу камеру и микрофон и попробуйте снова.",
+      "TOO_LONG_NAME": "Слишком длинное имя",
+      "TOO_LONG_MESSAGE": "Имя конференции не должно превышать 256 символов"
+    }
+  }
+}

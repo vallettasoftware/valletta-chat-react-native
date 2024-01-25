@@ -1,0 +1,249 @@
+{
+  "AUTH": {
+    "VALLETTA_TALKS": "Valletta-Chat",
+    "RESEND_CONFIRMATION": "Resend confirmation",
+    "SIGN_IN": {
+      "SIGN_IN": "Sign In",
+      "FORGOT_PASSWORD": "Forgot password?",
+      "CREATE_ACCOUNT": "Create an account"
+    },
+    "SIGN_UP": {
+      "SIGN_UP": "Sign Up",
+      "CONFIRMATION": "Password Confirmation",
+      "CREATE_ACCOUNT": "Create an account",
+      "FORGOT_PASSWORD": "Forgot password?",
+      "ALREADY_HAVE_ACCOUNT": "Do you have an account? Sign In"
+    },
+    "SIGN_UP_CONFIRM": {
+      "SIGN_UP": "Sign Up",
+      "ALMOST_DONE": "Almost done!",
+      "CONFIRMATION_SENT": "Confirmation e-mail has been sent.",
+      "CHECK_EMAIL_BOX": "Check your e-mail box.",
+      "NOT_RECEIVE_MESSAGE": "If you haven't received any message, please check spam folder or resend confirmation e-mail"
+    },
+    "CONFIRM_EMAIL": {
+      "SIGN_IN_5_SEC" :"You will automatically be signed in during next 5 seconds.",
+      "EMAIL_CONFIRMATION": "Email Confirmation",
+      "CONGRATULATIONS": "Congratulations!",
+      "SUCCESSFUL_CONFIRMATION": "You successfully confirmed your e-mail.",
+      "VERIFICATION_ERROR": "Error happened during your e-mail verification",
+      "RESEND_EMAIL": "Resend Verification E-mail",
+      "CREATE_ACCOUNT": "Create an Account",
+      "FORGOT_PASSWORD": "Forgot password?"
+    },
+    "CONFIRM_PASSWORD": {
+      "PASSWORD_CHANGE": "Password Change",
+      "CONGRATULATIONS": "Congratulations!",
+      "SUCCESSFUL_CHANGE": "You successfully changed your password."
+    },
+    "FORGOT_PASSWORD": {
+      "PASSWORD_RECOVERY": "Password Recovery",
+      "SPECIFY_YOUR_EMAIL": "Specify your e-mail, please.",
+      "WE_WILL_SEND_EMAIL": "We will send you an e-mail with password recovery instructions",
+      "RESTORE_PASSWORD": "Restore password",
+      "CREATE_ACCOUNT": "Create an Account",
+      "I_REMEMBER_PASSWORD": "I remember password",
+      "REQUEST_SUCCESSFULLY_PERFORMED": "Your request was successfully performed. Please check your e-mail."
+    },
+    "RESET_PASSWORD": {
+      "RESET_PASSWORD": "Reset Password",
+      "PASSWORD_CHANGE": "Password Change",
+      "NEW_PASSWORD": "New password",
+      "REPEAT_PASSWORD": "Repeat a password",
+      "CREATE_NEW_PASSWORD": "Create New Password"
+    },
+    "RESET_PASSWORD_CONFIRM": {
+      "PASSWORD_RECOVERY": "Password Recovery",
+      "ALMOST_DONE": "Almost done!",
+      "WE_SENT_EMAIL": "We have sent you an e-mail with instructions.",
+      "CHECK_YOUR_MAILBOX": "Check your mailbox, please.",
+      "NOT_RECEIVE_MESSAGE": "If you haven't received any message, check spam folder or resend confirmation e-mail"
+    },
+    "CHANGE_PASSWORD": {
+      "OLD_PASSWORD": "Old Password",
+      "REPEAT_NEW_PASSWORD": "Repeat a new password"
+
+
+    }
+  },
+  "MAIN": {
+    "HEADER": {
+      "HOME_PAGE": "Home page",
+      "VALLETTA_TALKS": "Valletta-Chat",
+      "OPEN_MEETING_DETAILS": "Open Meetings Details",
+      "MEETING_ID": "Meeting ID",
+      "MEETING_URL": "Meeting Url",
+      "TOTAL_PARTICIPANTS": "Total Participants",
+      "OWNER": "Owner",
+      "NO_EMAIL": "No e-mail",
+      "CONFERENCE_NAME": "The Conference Name",
+      "SPEAKER_VIEW": "Speaker",
+      "GALLERY_VIEW": "Grid",
+      "MY_PROFILE": "My Profile",
+      "CHANGE_PASSWORD": "Change Password"
+    },
+    "MEETINGS": {
+      "CREATE_NEW_MEETING": "Create New Meeting",
+      "INVITE_PEOPLE": "Invite people",
+      "INVITE_PARTICIPANTS": {
+        "INVITE_PARTICIPANTS_TO": "Invite Participants to",
+        "DO_YOU_WANT_INVITE_PEOPLE": "Do you want to invite people to the meeting?",
+        "LIST_PARTICIPANTS_EMAILS": "List the e-mails of the participants so that we can send them invitations",
+        "ADD_TO_MAILING_LIST": "Add to Mailing List",
+        "SUCCESSFULLY_SENT": "Successfully sent",
+        "WE_HAVE_SENT_INVITATIONS": "We have sent invitations to all participants whose e-mails you specified",
+        "MAILING_LIST": "Mailing List",
+        "SEND_INVITES": "Send Invites"
+      },
+      "CREATE_MEETING": {
+        "NO_MONEY": "Sorry, you are out of money on your account. You can't create the meeting.",
+        "CREATE_NEW_MEETING": "Create New Meeting",
+        "MEETING_NAME": "Meeting Name"
+      },
+      "JOIN_MEETING": {
+        "NO_MONEY": "Sorry, you are out of money on your account. You can't connect to the meeting.",
+        "ROOM_NOT_FOUND": "Meeting not found",
+        "JOIN_MEETING": "Join a Meeting",
+        "YOU_CAN_QUICKLY_JOIN": "You can quickly join the meeting if you have an url or id",
+        "ID_OR_URL": "Id or Url"
+      },
+      "LIST": {
+        "FIELDS": {
+          "ID": "ID",
+          "NAME": "Name",
+          "LAST_ACTIVITY": "Last activity",
+          "PARTICIPANTS_ONLINE_TOTAL": "Participants (Online / Total)"
+        },
+        "RENAME_ROOM": "Rename meeting",
+        "DELETE_MEETING": "Delete meeting?",
+        "CONFIRM_DELETION": "Please confirm the deletion",
+        "ARE_YOU_SURE": "Are you sure you want to delete the meeting?",
+        "DO_YOU_WANT_RENAME_ROOM": "Do you want to rename the meeting?",
+        "RENAME_CONFERENCE": "Rename of the meeting",
+        "YOUR_MEETINGS": "Your Meetings",
+        "TOTAL_PARTICIPANTS": "Total participants",
+        "SHARE": "Share",
+        "OPTIONS": "Options",
+        "RENAME_MEETING": "Rename Meeting",
+        "NOT_FOUND": "Meetings not found",
+        "NEW": "new"
+      }
+    },
+    "ACTIVE_MEETING": {
+      "RIGHT_CONTROLS": {
+        "PARTICIPANTS": "Participants",
+        "CLOSE_PANEL": "Close Panel",
+        "ALT_TEXT": "Alt Text!",
+        "GROUP_CHAT": "Group Chat",
+        "CHAT_IS_EMPTY": "Chat is empty.",
+        "TYPE_MESSAGE_HERE": "Type message here",
+        "MESSAGES": "Messages"
+      },
+      "BOTTOM_CONTROLS": {
+        "MUTE": "Mute",
+        "UNMUTE": "Unmute",
+        "STOP_VIDEO": "Stop Video",
+        "START_VIDEO": "Start Video",
+        "PARTICIPANTS": "Participants",
+        "CHAT": "Chat",
+        "SETTINGS": "Settings",
+        "LEAVE": "Leave"
+      }
+    },
+    "MOBILE_SIDEBAR": {
+      "ABOUT_MEETING": "About Meeting",
+      "INVITE_PEOPLE": "Invite People",
+      "MY_PROFILE": "My Profile",
+      "SETTINGS": "Settings",
+      "CONTACT_US": "Contact Us",
+      "SHARE_APP": "Share App",
+      "RATE_APP": "Rate App",
+      "ABOUT_VALLETTA": "About Valletta",
+      "LOGOUT": "Logout"
+    },
+    "ADMIN": {
+      "HOME_PAGE": "Home page",
+      "ADMIN_FORM": {
+        "ADD_ADMIN": "Add Administrative User",
+        "EDIT_ADMIN": "Edit Administrative User"
+      },
+      "ADMIN_SELECTOR": {
+        "DELETE_USER": "Delete user",
+        "ARE_YOU_SURE": "Are you sure you want to delete the user?",
+        "ADMIN_USERS": "Administrative Users",
+        "ADD_ADMIN": "Add admin"
+      }
+    }
+  },
+  "COMMON": {
+    "TAB_TITLES": {
+      "SIGN_IN": "Sign In",
+      "SIGN_UP": "Sign Up",
+      "MEETINGS": "Meetings",
+      "MEETING": "Meeting"
+    },
+    "FIELDS": {
+      "EMAIL": "E-mail",
+      "PASSWORD": "Password",
+      "OLD_PASSWORD": "Old Password",
+      "NAME": "Name",
+      "PHONE_NUMBER": "Phone number",
+      "ACTIONS": "Actions",
+      "EMPTY": "Empty"
+    },
+    "ACTIONS": {
+      "LOGIN": "Login",
+      "LOGOUT": "Logout",
+      "CANCEL": "Cancel",
+      "CLOSE": "Close",
+      "ADD": "Add!",
+      "SAVE": "Save",
+      "CREATE": "Create",
+      "JOIN": "Join",
+      "EDIT": "Edit",
+      "UPDATE": "Update",
+      "RENAME": "Rename",
+      "DELETE": "Delete",
+      "INVITE": "Invite",
+      "RESEND": "Resend",
+      "SHARE": "Share Screen",
+      "SHARE_STOP": "Stop Share",
+      "CANCEL_CHANGES": "Cancel Changes",
+      "OK_I_UNDERSTOOD": "Ок, I understood!"
+    },
+    "NOTIFICATIONS": {
+      "COPY_LINK": "Link has been copied to the clipboard",
+      "COPY_ID": "ID has been copied to the clipboard"
+    },
+    "ERRORS": {
+      "ERRORS": "Errors!",
+      "OOOPS": "Ooops!",
+      "TOO_LONG": "Too Long!",
+      "TOO_SHORT": "Too Short!",
+      "INVALID_VALUE": "Invalid value",
+      "REQUIRED_FIELD": "This field is required",
+      "SOMETHING_WRONG": "Oops, something went wrong",
+      "SOMETHING_WENT_WRONG": "Something went wrong!",
+      "NAME_EMPTY": "Name is empty",
+      "NAME_TOO_LONG": "Too long name",
+      "NAME_LENGTH_LIMIT": "The name of conference hasn't to be exceeded 256 symbols",
+      "EMAIL_PATTERN": "You specified wrong email address",
+      "EMAIL_IS_REQUIRED": "Email is required.",
+      "EMAIL_IS_INCORRECT": "Email is incorrect.",
+      "EMAIL_NOT_CONFIRMED": "E-mail hasn’t been confirmed.",
+      "EMAIL_NOT_EXIST": "User with provided Email doesn't exist",
+      "PASSWORD_IS_REQUIRED": "Password is Required",
+      "COMPARE_PASSWORDS": "Password confirmation doesn’t match a password",
+      "EMPTY_EMAIL_OR_PASSWORD": "E-mail or password is empty.",
+      "INCORRECT_EMAIL_OR_PASSWORD": "E-mail or password is wrong.",
+      "USER_ALREADY_EXIST": "User with the same e-mail already exist",
+      "CANNOT_DELETE_YOURSELF": "You cannot delete yourself!",
+      "ALREADY_IN_THE_LIST": "The e-mail has been already added to the list",
+      "LINK_BROKEN_RESEND_EMAIL": "Verification link is broken. Resend verification e-mail, please",
+      "NO_MONEY": "No money",
+      "CHECK_YOUR_CAMERA": "Please, check your camera and microphone and try again.",
+      "TOO_LONG_NAME": "Too long name",
+      "TOO_LONG_MESSAGE": "The name of conference hasn`t to be exceeded 256 symbols"
+    }
+  }
+}

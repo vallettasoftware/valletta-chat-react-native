@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react-native",
+    "sourceExts": ["js", "json", "ts", "tsx"],
+    "lib": ["dom", "esnext"],
+    "noEmit": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "strict": true
+  }
+}
